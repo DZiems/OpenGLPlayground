@@ -1,0 +1,5 @@
+C:\Users\daniel\Desktop\cs168\final project\final project\Debug\final project.vcxproj.CopyComplete
+C:\Users\daniel\Desktop\cs168\final project\final project\Debug\final project.exe
+C:\Users\daniel\Desktop\cs168\final project\final project\Debug\final project.pdb
+C:\Users\daniel\Desktop\cs168\final project\final project\Debug\glew32d.dll
+C:\Users\daniel\Desktop\cs168\final project\final project\Debug\glfw3.dll

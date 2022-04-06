@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(926,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(929,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(964,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(965,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(969,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(970,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(971,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\daniel\Desktop\cs168\final project\final project\Source.cpp(972,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  final project.vcxproj -> C:\Users\daniel\Desktop\cs168\final project\final project\Debug\final project.exe
